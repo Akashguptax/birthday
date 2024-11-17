@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <h1>Happy Birthday Riya!</h1>
+    <h1>Happy Birthday Akash!</h1>
     <img src="YOUR_IMAGE_URL_HERE" alt="Birthday Cake for Riya" class="cake" width="400">
 
     <script>
