@@ -26,12 +26,12 @@
 </head>
 <body>
     <h1>Happy Birthday Akash!</h1>
-    <img src="YOUR_IMAGE_URL_HERE" alt="Birthday Cake for Riya" class="cake" width="400">
+    <img src="https://imgur.com/a/KSVovOF" alt="Birthday Cake for Riya" class="cake" width="400">
 
     <script>
         function createBalloon() {
             const balloon = document.createElement('img');
-            balloon.src = 'https://path/to/balloon-image.png'; // Replace with a balloon image URL
+            balloon.src = 'https://imgur.com/f1jIVng'; // Replace with a balloon image URL
             balloon.classList.add('balloon');
             balloon.style.left = Math.random() * window.innerWidth + 'px';
             document.body.appendChild(balloon);
